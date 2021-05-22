@@ -6,6 +6,7 @@ public class Add {
 		int b;
 		
 		result= a+b;
+
 		System.out.println("result = " +result);
 
 
